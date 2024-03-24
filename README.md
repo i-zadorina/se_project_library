@@ -1,6 +1,6 @@
 # Project 1: Triple Peaks Library
 
-url https://irinafromnorth.github.io/se_project_library/
+url https://i-zadorina.github.io/se_project_library/
 
 The Triple Peaks Library webpage is the first project in the Software Engineering
 program at TripleTen. It was created using HTML and CSS, based on a design brief.
